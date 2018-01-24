@@ -16,7 +16,7 @@
 
 # 安卓端上网：
 
-  1. 下载一个 snapVPN 并安装，[下载](https://github.com/carolcoral/snapVPN/base.apk)
+  1. 下载一个 snapVPN 并安装，[下载](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
 
   2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置 > 语言中设置，只要不是中文即可
 
@@ -24,7 +24,7 @@
 
 # 安装谷歌商店：
 
-  1. 下载一个 GMS 框架并安装，[下载](https://github.com/carolcoral/snapVPN/GMSanzhuangqi_1.apk)
+  1. 下载一个 GMS 框架并安装，[下载](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
 
   2. 因为谷歌应用都需要这个框架所以我们需要在第一步先安装好这个框架才行，在安装过程会重启几次不用担心，一会儿就好。
 
