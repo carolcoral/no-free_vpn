@@ -16,15 +16,15 @@
 
 # 安卓端上网：
 
-  1. 下载一个 snapVPN 并安装，下载链接: https://pan.baidu.com/s/1raqPSlA 密码: npvn
+  1. 下载一个 snapVPN 并安装，[下载](https://github.com/carolcoral/snapVPN/base.apk)
 
-  2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置>语言中设置，只要不是中文即可
+  2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置 > 语言中设置，只要不是中文即可
 
   3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
 # 安装谷歌商店：
 
-  1. 下载一个 GMS 框架并安装，下载链接: https://pan.baidu.com/s/1i7kY4zb 密码: n2y3
+  1. 下载一个 GMS 框架并安装，[下载](https://github.com/carolcoral/snapVPN/GMSanzhuangqi_1.apk)
 
   2. 因为谷歌应用都需要这个框架所以我们需要在第一步先安装好这个框架才行，在安装过程会重启几次不用担心，一会儿就好。
 
