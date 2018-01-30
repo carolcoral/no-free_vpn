@@ -4,6 +4,12 @@
 
 ><font color="red">snapVPN 是一款收费的软件，但是有免费功能，本人用着还行，如果对速度和稳定性有更高要求可以尝试开通会员。</font>
 
+## 申明：
+
+  >请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
+  
+  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
+
 # 电脑端上网(Windows && Mac)：
 
   1. 下载一个安卓应用模拟器，本人用的是蓝叠，下载地址：http://www.bluestacks.cn
@@ -16,7 +22,7 @@
 
 # 安卓端上网：
 
-  1. 下载一个 snapVPN 并安装，[下载](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
+  1. 下载一个 snapVPN 并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
 
   2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置 > 语言中设置，只要不是中文即可
 
@@ -24,7 +30,7 @@
 
 # 安装谷歌商店：
 
-  1. 下载一个 GMS 框架并安装，[下载](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
+  1. 下载一个 GMS 框架并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
 
   2. 因为谷歌应用都需要这个框架所以我们需要在第一步先安装好这个框架才行，在安装过程会重启几次不用担心，一会儿就好。
 
