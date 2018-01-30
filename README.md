@@ -6,9 +6,9 @@
 
 ## 申明：
 
-  >请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
+ >请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
   
-  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
+ >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
 
 # 电脑端上网(Windows && Mac)：
 
