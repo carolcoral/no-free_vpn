@@ -13,12 +13,16 @@
 # 电脑端上网（Windscribe）：
 
  1. 下载对应的软件安装包
-   
-   * [官网下载地址](https://windscribe.com/download)
   
    * [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
   
    * [MAC 下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.dmg?raw=true)
+   
+   * [官网提供以下系统和浏览器的下载](https://windscribe.com/download)
+   
+   ![](https://github.com/carolcoral/Free-VPN/blob/master/img/download1.png?raw=true)
+   
+   ![](https://github.com/carolcoral/Free-VPN/blob/master/img/download2.png?raw=true)
  
  2. 安装该软件后运行
  
