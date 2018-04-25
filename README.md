@@ -35,15 +35,19 @@
  8. 同时支持付费享受更多的服务和流量
  
  下图为支持使用的系统及浏览器
+ 
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
  
  下图为付费使用费用情况：
+ 
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
  
  下图为支持使用的付费方式：
+ 
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
  
- 下图为目前提供的免费服务区域
+ 下图为目前提供的免费服务区域：
+ 
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
 
 # 安卓端上网：
