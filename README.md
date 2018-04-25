@@ -2,7 +2,7 @@
 
 >亲测有效的科学上网
 
-><font color="red">snapVPN 是一款收费的软件，但是有免费功能，本人用着还行，如果对速度和稳定性有更高要求可以尝试开通会员。</font>
+><font color="red">本人在这里只介绍两款免费的 VPN，一款是仅限手机端使用的 snapVPN，一款是 Windscribe</font>
 
 ## 申明：
 
@@ -10,23 +10,41 @@
   
  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
 
-# 电脑端上网：
+# 电脑端上网（Windscribe）：
 
- 1.下载对应的软件安装包，[下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
+ 1. 下载对应的软件安装包
+   
+   -- [官网下载地址](https://windscribe.com/download)
+  
+   -- [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
+  
+   -- [MAC 下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.dmg?raw=true)
  
- 2.安装该软件后运行
+ 2. 安装该软件后运行
  
- 3.因为这个软件需要登录才能使用，所以我们需要先去官网注册一个账号
+ 3. 因为这个软件需要登录才能使用，所以我们需要先去官网注册一个账号
  
- 4.如果不能打开官网在软件上有一个紧急连接的按键，打开这个按键后点“返回”，然后点“否”在官网去注册即可
+ 4. 如果不能打开官网在软件上有一个紧急连接的按键，打开这个按键后点“返回”，然后点“否”在官网去注册即可
  
- 5.填写的邮箱地址不限，不过因为是国外的网址所以邮件接收需要等一会儿，不过在等待区间可以直接登录了
+ 5. 填写的邮箱地址不限，不过因为是国外的网址所以邮件接收需要等一会儿，不过在等待区间可以直接登录了
  
- 6.登录后可以选择时候打开防火墙、选择连接区域、时候打开 vpn 等操作
+ 6. 登录后可以选择时候打开防火墙、选择连接区域、时候打开 vpn 等操作
  
- 7.当我们没有进行邮件验证的时候我们每月能使用2GB 的流量，当我们验证过邮件后每月免费的流量是10GB
+ 7. 当我们没有进行邮件验证的时候我们每月能使用2GB 的流量，当我们验证过邮件后每月免费的流量是10GB
  
- 8.同时支持付费享受更多的服务和流量
+ 8. 同时支持付费享受更多的服务和流量
+ 
+ 下图为支持使用的系统及浏览器
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
+ 
+ 下图为付费使用费用情况：
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
+ 
+ 下图为支持使用的付费方式：
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
+ 
+ 下图为目前提供的免费服务区域
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
 
 # 安卓端上网：
 
@@ -46,8 +64,3 @@
 
   4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
-# Question:
-
-1. 为什么 mac 用虚拟机后不能连接？
-  
-        修改你的虚拟机设置里面的网络为桥接模式，如果你的 mac 是用 wifi 上网的就选择 wifi，如果用网线的就选择以太网。
