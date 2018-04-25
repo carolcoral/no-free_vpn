@@ -61,7 +61,7 @@
 
 3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
-# 安装谷歌商店：
+## 安装谷歌商店：
 
 1. 下载一个 GMS 框架并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
 
@@ -71,7 +71,7 @@
 
 4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
-## 注意：
+# 注意：
 1. 可以登录 [Windscribe](https://windscribe.com/) 官网后登录自己的账户在“My Account”里面查看当前使用流量的情况
 
 2. Windscribe 流量计算规则是从你注册账号的当日计算，即下次重置流量为当前注册时间加30天
