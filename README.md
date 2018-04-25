@@ -36,19 +36,19 @@
  
  <p align="center">
  
- ### 下图为支持使用的系统及浏览器
+ ### 以下为支持使用的系统及浏览器
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
  
- ### 下图为付费使用费用情况：
+ ### 以下为付费使用费用情况：
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
  
- ### 下图为支持使用的付费方式：
+ ### 以下为支持使用的付费方式：
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
  
- ### 下图为目前提供的免费服务区域：
+ ### 以下为目前提供的免费服务区域：
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
  </p>
