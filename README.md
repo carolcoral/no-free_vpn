@@ -18,7 +18,7 @@
   
    * [MAC 下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.dmg?raw=true)
    
-   * [官网提供以下系统和浏览器的下载](https://windscribe.com/download)
+   * [官网提供以下系统和浏览器的下载](https://windscribe.com/download)
    
    ![](https://github.com/carolcoral/Free-VPN/blob/master/img/download1.png?raw=true)
    
