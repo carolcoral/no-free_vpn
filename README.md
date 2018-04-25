@@ -14,11 +14,11 @@
 
  1. 下载对应的软件安装包
    
-   -- [官网下载地址](https://windscribe.com/download)
+   * [官网下载地址](https://windscribe.com/download)
   
-   -- [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
+   * [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
   
-   -- [MAC 下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.dmg?raw=true)
+   * [MAC 下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.dmg?raw=true)
  
  2. 安装该软件后运行
  
@@ -68,3 +68,9 @@
 
   4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
+## 注意：
+1. 可以登录 [Windscribe](https://windscribe.com/) 官网后登录自己的账户在“My Account”里面查看当前使用流量的情况
+
+2. Windscribe 流量计算规则是从你注册账号的当日计算，即下次重置流量为当前注册时间加30天
+
+3. 下次重置时间同样可以在“My Account”里面的“reset”查看
