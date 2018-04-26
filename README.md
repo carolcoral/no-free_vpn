@@ -1,4 +1,4 @@
-<p align="center"># 目   录</p>
+<p align="center"><h1>目   录</h1></p>
 
 <a href="#windows">Windscribe 电脑端上网</a>
 
@@ -53,7 +53,7 @@
  
  8. 同时支持付费享受更多的服务和流量
  
- <a id="windowsinstall">#### 详细图文教程：</a>
+ #### <a id="windowsinstall">详细图文教程：</a>
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/1.png?raw=true)
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/2.png?raw=true)
@@ -95,7 +95,7 @@
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
  </p>
 
-<a id="apk"># 安卓端上网：</a>
+# <a id="apk">安卓端上网：</a>
 
 1. 下载一个 snapVPN 并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
 
@@ -113,7 +113,7 @@
 
 4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
-<a id="mention"># 注意：</a>
+# <a id="mention">注意：</a>
 1. 可以登录 [Windscribe](https://windscribe.com/) 官网后登录自己的账户在“My Account”里面查看当前使用流量的情况
 
 2. Windscribe 流量计算规则是从你注册账号的当日计算，即下次重置流量为当前注册时间加30天
