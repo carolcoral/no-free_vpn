@@ -12,6 +12,8 @@
 
 # 电脑端上网（Windscribe）：
 
+* 最下方有图文详细教程
+
  1. 下载对应的软件安装包
   
    * [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
@@ -37,6 +39,29 @@
  7. 当我们没有进行邮件验证的时候我们每月能使用2GB 的流量，当我们验证过邮件后每月免费的流量是10GB
  
  8. 同时支持付费享受更多的服务和流量
+ 
+ ###### 详细图文教程：
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/1.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/2.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/3.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/4.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/5.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/6.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/7.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/8.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/9.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/10.png?raw=true)
+ 
+ ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/11.png?raw=true)
  
  <p align="center">
  
