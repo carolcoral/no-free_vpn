@@ -104,6 +104,10 @@
 
 3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
+4. 如有需要可以下载 windscribe 的安卓端 [下载](https://github.com/carolcoral/Free-VPN/blob/master/com.windscribe.vpn_114.apk?raw=true)
+
+5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录
+
 ## 安装谷歌商店：
 
 1. 下载一个 GMS 框架并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
