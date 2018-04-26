@@ -6,7 +6,7 @@
 
 三、<a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
 
-四、<a href="#apk">snapVPN 移动端教程</a>
+四、<a href="#apk">安卓端挂 VPN 教程</a>
 
 五、<a href="#mention">一些注意事项</a>
 
