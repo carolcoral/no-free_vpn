@@ -98,13 +98,13 @@
 
 # <a id="apk">安卓端上网：</a>
 
-1. 下载一个 snapVPN 并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
+1. 下载一个 snapVPN 并安装，[ 下载 snapVPN](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
 
 2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置 > 语言中设置，只要不是中文即可
 
 3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
-4. 如有需要可以下载 windscribe 的安卓端 [下载](https://github.com/carolcoral/Free-VPN/blob/master/com.windscribe.vpn_114.apk?raw=true)
+4. 如有需要可以下载 windscribe 的安卓端 [下载 windscribe](https://github.com/carolcoral/Free-VPN/blob/master/com.windscribe.vpn_114.apk?raw=true)
 
 5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录
 
