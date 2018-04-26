@@ -1,3 +1,15 @@
+<p align="center"># 目   录</p>
+
+<a href="#windows">Windscribe 电脑端上网</a>
+
+<a href="#windowsdownload">Windscribe 软件下载</a>
+
+<a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
+
+<a href="#apk">snapVPN 移动端教程</a>
+
+<a href="#mention">一些注意事项</a>
+
 # Free-VPN
 
 >亲测有效的科学上网
@@ -10,17 +22,6 @@
   
  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
  
-<p align="center">目   录</p>
-
-<a href="#windows">Windscribe 电脑端上网</a>
-
-<a href="#windowsdownload">Windscribe 软件下载</a>
-
-<a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
-
-<a href="#apk">snapVPN 移动端教程</a>
-
-<a href="#mention">一些注意事项</a>
 
 # <a id="windows">电脑端上网（Windscribe）</a>：
 
