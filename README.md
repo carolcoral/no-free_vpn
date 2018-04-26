@@ -34,7 +34,7 @@
    
    * [官网提供以下系统和浏览器的下载](https://windscribe.com/download)
    
-   * [点击获取更多流量......](https://windscribe.com/?friend=486oxp10)
+   * [点击获取更多流量......](https://windscribe.com/?friend=486oxp10)
    
    ![](https://github.com/carolcoral/Free-VPN/blob/master/img/download1.png?raw=true)
    
