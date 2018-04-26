@@ -1,4 +1,4 @@
-<p align="center"><h1>目   录</h1></p>
+<h1><p align="center">目   录</p></h1>
 
 <a href="#windows">Windscribe 电脑端上网</a>
 
