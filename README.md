@@ -9,12 +9,24 @@
  >请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
   
  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/Snap%20VPN破解会员版.apk)
+ 
+<p align="center">目   录</p>
 
-# 电脑端上网（Windscribe）：
+<a href="#windows">Windscribe 电脑端上网</a>
+
+<a href="#windowsdownload">Windscribe 软件下载</a>
+
+<a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
+
+<a href="#apk">snapVPN 移动端教程</a>
+
+<a href="#mention">一些注意事项</a>
+
+# <a id="windows">电脑端上网（Windscribe）</a>：
 
 * 最下方有图文详细教程
 
- 1. 下载对应的软件安装包
+ <a id="windowsdownload">1. 下载对应的软件安装包</a>
   
    * [Windows下载](https://github.com/carolcoral/Free-VPN/blob/master/Windscribe.exe?raw=true)
   
@@ -40,7 +52,7 @@
  
  8. 同时支持付费享受更多的服务和流量
  
- ###### 详细图文教程：
+ <a id="windowsinstall">#### 详细图文教程：</a>
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/1.png?raw=true)
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/2.png?raw=true)
@@ -82,7 +94,7 @@
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
  </p>
 
-# 安卓端上网：
+<a id="apk"># 安卓端上网：</a>
 
 1. 下载一个 snapVPN 并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/base.apk)
 
@@ -100,7 +112,7 @@
 
 4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
-# 注意：
+<a id="mention"># 注意：</a>
 1. 可以登录 [Windscribe](https://windscribe.com/) 官网后登录自己的账户在“My Account”里面查看当前使用流量的情况
 
 2. Windscribe 流量计算规则是从你注册账号的当日计算，即下次重置流量为当前注册时间加30天
