@@ -2,7 +2,7 @@
 
 <a href="#windows">Windscribe 电脑端上网</a>
 
-<a href="#windowsdownload">Windscribe 软件下载</a>
+<a href="#windowsdownload">Windscribe 软件下载及文字说明</a>
 
 <a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
 
@@ -25,7 +25,6 @@
 
 # <a id="windows">电脑端上网（Windscribe）</a>：
 
-* 最下方有图文详细教程
 
  <a id="windowsdownload">1. 下载对应的软件安装包</a>
   
