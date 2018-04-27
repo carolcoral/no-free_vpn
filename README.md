@@ -108,6 +108,8 @@
 
 5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录
 
+6. 登录 windscribe 后就可以卸载 snapVPN 了，下次直接打开 windscribe 进行科学上网
+
 ## 安装谷歌商店：
 
 1. 下载一个 GMS 框架并安装，[ 下载 Download](https://raw.githubusercontent.com/carolcoral/snapVPN/master/GMSanzhuangqi_1.apk)
