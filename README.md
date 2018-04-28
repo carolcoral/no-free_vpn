@@ -8,7 +8,7 @@
 
 四、<a href="#apk">安卓端挂 VPN 教程</a>
 
-五、<a href="#mention">一些注意事项</a>
+五、<a href="#mention">一些注意事项（必读）</a>
 
 # Free-VPN
 
@@ -130,3 +130,6 @@
 4. 如果 windows 下点击紧急链接一直无反应可能是防火墙的问题，请把该软件加入防火墙的白名单中重启软件即可（以管理员权限运行）
 
 5. 一些常见的问题及解决方案已更新在 ISSUES 中，如果还有其他问题可以在 ISSUES 中提出，看到后会第一时间解决。
+
+6.目前 windscribe 可以免费多获得5GB 流量，在“My Account” 中的“Account Status”的右侧点击“Tweet 4 Data”。根据
+
