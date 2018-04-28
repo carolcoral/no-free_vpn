@@ -131,5 +131,5 @@
 
 5. 一些常见的问题及解决方案已更新在 ISSUES 中，如果还有其他问题可以在 ISSUES 中提出，看到后会第一时间解决。
 
-6.目前 windscribe 可以免费多获得5GB 流量，在“My Account” 中的“Account Status”的右侧点击“Tweet 4 Data”。根据
+6.目前 windscribe 可以免费多获得5GB 流量，在“My Account” 中的“Account Status”的右侧点击“Tweet 4 Data”。根据跳转的界面的提示操作，分为三步，第一步意思是点击在自己的 twitter 上发送一条 winscribe 编辑好的文字，第二步输入你的 twiiter 的用户名（昵称），然后获得5GB，第三步是提示不要删除这条说说可以一直拥有这个免费流量，删除就没有了
 
