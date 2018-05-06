@@ -14,7 +14,7 @@
 
 >亲测有效的科学上网
 
-><font color="red">本人在这里只介绍两款免费的 VPN，一款是仅限手机端使用的 snapVPN，一款是 Windscribe</font>
+><font color="red">本人在这里只介绍两款免费的 VPN，一款是仅限手机端使用的 snapVPN，一款是 Windscribe。觉得不错请 star，谢谢 ！</font>
 
 ## 申明：
 
