@@ -1,16 +1,22 @@
 ﻿<h1><p align="center">目   录</p></h1>
 
-一、<a href="#windows">Windscribe 电脑端上网</a>
 
-二、<a href="#windowsdownload">Windscribe 软件下载及文字说明</a>
+1. <a href="#desc">项目简介</a>
+2. <a href="#windows">电脑端使用教程</a>
 
-三、<a href="#windowsinstall">Windscribe 安装及使用图文教程</a>
+    2.1 <a href="#windowsdownload">软件安装及使用说明</a>
+    
+    2.2 <a href="#windowsinstall">详细图文说明</a>
+    
+    2.3 <a href="#extentions">支持的扩展</a>
 
-四、<a href="#apk">安卓端挂 VPN 教程</a>
+3. <a href="#mobile">移动端使用教程</a>
 
-五、<a href="#mention">一些注意事项（必读）</a>
+    3.1 <a href="#android">安卓端</a>
 
-# Free-VPN
+4. <a href="#mention">注意事项（必读）</a>
+
+# <a id="desc">Free-VPN</a>
 
 >亲测有效的科学上网
 
@@ -23,10 +29,11 @@
  >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://github.com/carolcoral/Free-VPN/raw/master/download/Snap%20VPN%E7%A0%B4%E8%A7%A3%E4%BC%9A%E5%91%98%E7%89%88.apk)
  
 
-# <a id="windows">电脑端上网（Windscribe）</a>：
+## <a id="windows">电脑端使用教程</a>：
 
+### <a id="windowsdownload">一、使用说明</a>
 
- <a id="windowsdownload">1. 下载对应的软件安装包</a>
+1. 下载对应的软件安装包
   
    * [Windows下载](https://github.com/carolcoral/Free-VPN/raw/master/download/Windscribe.exe)
   
@@ -42,21 +49,23 @@
    
    ![](https://github.com/carolcoral/Free-VPN/blob/master/img/download2.png?raw=true)
  
- 2. 安装该软件后运行
+2. 安装该软件后运行
  
- 3. 因为这个软件需要登录才能使用，所以我们需要先去官网注册一个账号
+3. 因为这个软件需要登录才能使用，所以我们需要先去官网注册一个账号
  
- 4. 如果不能打开官网在软件上有一个紧急连接的按键，打开这个按键后点“返回”，然后点“否”在官网去注册即可
+4. 如果不能打开官网在软件上有一个紧急连接的按键，打开这个按键后点“返回”，然后点“否”在官网去注册即可
  
- 5. 填写的邮箱地址不限，不过因为是国外的网址所以邮件接收需要等一会儿，不过在等待区间可以直接登录了
+5. 填写的邮箱地址不限，不过因为是国外的网址所以邮件接收需要等一会儿，不过在等待区间可以直接登录了
  
- 6. 登录后可以选择时候打开防火墙、选择连接区域、是否打开 vpn 等操作
+6. 登录后可以选择时候打开防火墙、选择连接区域、是否打开 vpn 等操作
  
- 7. 当我们没有进行邮件验证的时候我们每月能使用2GB 的流量，当我们验证过邮件后每月免费的流量是10GB
+7. 当我们没有进行邮件验证的时候我们每月能使用2GB 的流量，当我们验证过邮件后每月免费的流量是10GB
  
- 8. 同时支持付费享受更多的服务和流量
- 
- #### <a id="windowsinstall">详细图文教程：</a>
+8. 同时支持付费享受更多的服务和流量
+
+
+#### <a id="windowsinstall">二、详细图文教程：</a>
+
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/1.png?raw=true)
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/2.png?raw=true)
@@ -80,25 +89,30 @@
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/11.png?raw=true)
  
  <p align="center">
- 
- ### 以下为支持使用的系统及浏览器
+
+### <a id="extentions">三、扩展支持</a>
+
+#### 1.支持使用的系统及浏览器
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
  
- ### 以下为付费使用费用情况：
+#### 2.会员付费使用费用
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
  
- ### 以下为支持使用的付费方式：
+#### 3.支持使用的付费方式
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
  
- ### 以下为目前提供的免费服务区域：
+#### 4.目前提供的免费服务区域
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
  </p>
 
-# <a id="apk">安卓端上网：</a>
+
+## <a id="mobile">移动端使用</a>
+
+### <a id="android">安卓端</a>
 
 1. 下载一个 snapVPN 并安装，[ 下载 snapVPN](https://github.com/carolcoral/Free-VPN/raw/master/download/base.apk)
 
@@ -112,7 +126,7 @@
 
 6. 登录 windscribe 后就可以卸载 snapVPN 了，下次直接打开 windscribe 进行科学上网
 
-## 安装谷歌商店：
+#### 安装谷歌商店：
 
 1. 下载一个 GMS 框架并安装，[ 下载 Download](https://github.com/carolcoral/Free-VPN/raw/master/download/GMSanzhuangqi_1.apk)
 
@@ -122,7 +136,8 @@
 
 4. 运行上面的 snapVPN，然后打开谷歌商店就可以下载应用了
 
-# <a id="mention">注意：</a>
+## <a id="mention"><font color="red">注意事项</font></a>
+
 1. 可以登录 [Windscribe](https://windscribe.com/) 官网后登录自己的账户在“My Account”里面查看当前使用流量的情况
 
 2. Windscribe 流量计算规则是从你注册账号的当日计算，即下次重置流量为当前注册时间加30天
