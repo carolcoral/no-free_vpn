@@ -87,27 +87,28 @@
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/10.png?raw=true)
  
  ![](https://github.com/carolcoral/Free-VPN/blob/master/img/png/11.png?raw=true)
- 
- <p align="center">
 
 ### <a id="extentions">三、扩展支持</a>
 
-#### 1.支持使用的系统及浏览器
- 
- ![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
- 
-#### 2.会员付费使用费用
- 
- ![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
- 
-#### 3.支持使用的付费方式
- 
- ![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
- 
-#### 4.目前提供的免费服务区域
- 
- ![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
- </p>
+
+1.支持使用的系统及浏览器
+
+
+![](https://github.com/carolcoral/Free-VPN/blob/master/img/3.png?raw=true)
+
+
+2.会员付费使用费用
+
+![](https://github.com/carolcoral/Free-VPN/blob/master/img/2.png?raw=true)
+
+3.支持使用的付费方式
+
+![](https://github.com/carolcoral/Free-VPN/blob/master/img/4.png?raw=true)
+
+4.目前提供的免费服务区域
+
+![](https://github.com/carolcoral/Free-VPN/blob/master/img/5.png?raw=true)
+
 
 
 ## <a id="mobile">移动端使用</a>
