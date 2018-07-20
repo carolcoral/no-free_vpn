@@ -26,7 +26,7 @@
 
  >请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
   
- >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://github.com/carolcoral/Free-VPN/raw/master/download/Snap%20VPN%E7%A0%B4%E8%A7%A3%E4%BC%9A%E5%91%98%E7%89%88.apk)
+ >snapvpn 破解版未经过详细验证，请有需要的 coder 自行决定下载。[ 下载 Download](https://github.com/carolcoral/free_vpn/releases/download/10.8/Snap.VPN.apk)
  
 
 ## <a id="windows">电脑端使用教程</a>：
@@ -35,11 +35,11 @@
 
 1. 下载对应的软件安装包
   
-   * [Windows下载](https://github.com/carolcoral/Free-VPN/raw/master/download/Windscribe.exe)
+   * [Windows下载](https://github.com/carolcoral/free_vpn/releases/download/10.8/Windscribe.exe)
   
-   * [MAC 下载](https://github.com/carolcoral/Free-VPN/raw/master/download/Windscribe.dmg)
+   * [MAC 下载](https://github.com/carolcoral/free_vpn/releases/download/10.8/Windscribe.dmg)
 
-   * [Chrome 下载](https://github.com/carolcoral/Free-VPN/raw/master/download/Winscribe%20for%20Chrome.7z)
+   * [Chrome 下载](https://github.com/carolcoral/free_vpn/releases/download/10.8/Winscribe.for.Chrome.7z)
       
    * [官网提供以下系统和浏览器的下载](https://windscribe.com/download)
    
@@ -114,13 +114,13 @@
 
 ### <a id="android">安卓端</a>
 
-1. 下载一个 snapVPN 并安装，[ 下载 snapVPN](https://github.com/carolcoral/Free-VPN/raw/master/download/base.apk)
+1. 下载一个 snapVPN 并安装，[ 下载 snapVPN](https://github.com/carolcoral/free_vpn/releases/download/10.8/base.apk)
 
 2. 因为某种不可描述的原因我们需要修改我们手机的默认语言，在设置 > 语言中设置，只要不是中文即可
 
 3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
-4. 如有需要可以下载 windscribe 的安卓端 [下载 windscribe](https://github.com/carolcoral/Free-VPN/raw/master/download/com.windscribe.vpn_114.apk)
+4. 如有需要可以下载 windscribe 的安卓端 [下载 windscribe](https://github.com/carolcoral/free_vpn/releases/download/10.8/com.windscribe.vpn_114.apk)
 
 5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录
 
@@ -128,7 +128,7 @@
 
 #### 安装谷歌商店：
 
-1. 下载一个 GMS 框架并安装，[ 下载 Download](https://github.com/carolcoral/Free-VPN/raw/master/download/GMSanzhuangqi_1.apk)
+1. 下载一个 GMS 框架并安装，[ 下载 Download](https://github.com/carolcoral/free_vpn/releases/download/10.8/GMSanzhuangqi_1.apk)
 
 2. 因为谷歌应用都需要这个框架所以我们需要在第一步先安装好这个框架才行，在安装过程会重启几次不用担心，一会儿就好。
 
