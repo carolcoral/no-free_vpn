@@ -121,11 +121,13 @@
 
 3. 运行安装好的 snapVPN 即可，会有一个提示，连接成功后就可以科学上网了
 
-4. 如有需要可以下载 windscribe 的安卓端 [下载 windscribe](https://github.com/carolcoral/free_vpn/releases/download/10.8/com.windscribe.vpn_114.apk)
+4.因为某些目前未知的原因，winscribe的安卓端无法正常使用了，请有需要的同学继续使用snapVPN即可。
 
-5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录
+<s>4. 如有需要可以下载 windscribe 的安卓端 [下载 windscribe](https://github.com/carolcoral/free_vpn/releases/download/10.8/com.windscribe.vpn_114.apk)</s>
 
-6. 登录 windscribe 后就可以卸载 snapVPN 了，下次直接打开 windscribe 进行科学上网
+<s>5. 因为windscribe 需要登录后才能使用，所以我们还是需要首先安装好 snapVPN 才能正常登录</s>
+
+<s>6. 登录 windscribe 后就可以卸载 snapVPN 了，下次直接打开 windscribe 进行科学上网</s>
 
 #### 安装谷歌商店：
 
