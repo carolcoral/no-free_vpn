@@ -21,6 +21,7 @@
 4. 因为搬瓦工主要提供的是IP、端口和等信息，所以目前看来兼容市场上所有主流系统（windows、MacOs、android、IOS、Chrome、FF、Linux、Ubuntu、CentOS等）
 
 ## 费用（单位美元）
+
 |套餐|20G KVM VPS|40G KVM VPS|80G KVM VPS|160G KVM VPS|320G KVM VPS|480G KVM VPS|
 |:---|:---|:---|:---|
 |可用状态|缺货中|可用|可用|可用|可用|可用|
