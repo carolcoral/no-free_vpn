@@ -15,6 +15,8 @@
 
 ### [shadowsocks](https://github.com/carolcoral/free_vpn/blob/master/shadowsocks.md)
 
+### [amazon-aws亚马逊申请一年免费VPN](https://www.freehao123.com/amazon-aws/#toc-5)
+
 |服务|WINSCRIBE|BVPN|Bandwagon|shadowsocks|
 |:---|:---|:---|:---|:---|
 |稳定性|低|中|极高|极高|
