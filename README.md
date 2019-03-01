@@ -5,5 +5,5 @@
 > 请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
 
 
-### [WINSCRIBE](https://github.com/carolcoral/free_vpn/blob/master/Winscribe.md)
+### [WINSCRIBE](https://github.com/carolcoral/free_vpn/blob/master/Winscribe.md)（目前该VPN不够稳定，请谨慎使用）
 ### [BVPN](https://github.com/carolcoral/free_vpn/blob/master/BVPN.md)
