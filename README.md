@@ -7,13 +7,13 @@
 > 请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
 > 如果多人一起使用推荐使用 Bandwagon，单人使用推荐使用 shadowsocks
 
-### [WINSCRIBE](https://github.com/carolcoral/free_vpn/blob/master/Winscribe.md)（目前该VPN不够稳定，请谨慎使用）
+### [WINSCRIBE](https://carolcoral.github.io/free_vpn/Winscribe)（目前该VPN不够稳定，请谨慎使用）
 
-### [BVPN](https://github.com/carolcoral/free_vpn/blob/master/BVPN.md)
+### [BVPN](https://carolcoral.github.io/free_vpn/BVPN)
 
-### [Bandwagon](https://github.com/carolcoral/free_vpn/blob/master/Bandwagon.md)
+### [Bandwagon](https://carolcoral.github.io/free_vpn/Bandwagon)
 
-### [shadowsocks](https://github.com/carolcoral/free_vpn/blob/master/shadowsocks.md)
+### [shadowsocks](https://carolcoral.github.io/free_vpn/shadowsocks)
 
 ### [amazon-aws亚马逊申请一年免费VPN](https://www.freehao123.com/amazon-aws/#toc-5)
 
