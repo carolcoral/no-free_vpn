@@ -23,6 +23,12 @@
 
 ### [amazon-aws亚马逊申请一年免费VPN](https://www.freehao123.com/amazon-aws/#toc-5)
 
+### [ExpressVPN](https://www.vpninchina.store/9/?offer=3monthsfree&a_fid=1703721/)
+
+### [VyprVPN]()
+
+### [NordVPN]()
+
 |服务|WINSCRIBE|BVPN|Bandwagon|shadowsocks|
 |:---|:---|:---|:---|:---|
 |稳定性|低|中|极高|极高|
