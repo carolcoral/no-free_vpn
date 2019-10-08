@@ -13,21 +13,21 @@
 
 > `2019年6月04日 14:09:02` —— 因为目前大陆处于敏感时间，预计将会有长达`3个月`的时间无法正常使用`vpn`，请各位知悉。目前已知`SS`和`搬瓦工`已经被封掉大量`IP`和`端口`了。
 
-### [WINSCRIBE](https://carolcoral.github.io/free_vpn/Winscribe)（目前该VPN不够稳定，请谨慎使用）
+### [WINSCRIBE](https://carolcoral.github.io/no-free_vpn/Winscribe)（目前该VPN不够稳定，请谨慎使用）
 
-### [BVPN](https://carolcoral.github.io/free_vpn/BVPN)
+### [BVPN](https://carolcoral.github.io/no-free_vpn/BVPN)
 
-### [Bandwagon](https://carolcoral.github.io/free_vpn/Bandwagon)
+### [Bandwagon](https://carolcoral.github.io/no-free_vpn/Bandwagon)
 
-### [shadowsocks](https://carolcoral.github.io/free_vpn/shadowsocks)
+### [shadowsocks](https://carolcoral.github.io/no-free_vpn/shadowsocks)
 
 ### [amazon-aws亚马逊申请一年免费VPN](https://www.freehao123.com/amazon-aws/#toc-5)
 
-### [ExpressVPN](https://carolcoral.github.io/free_vpn/ExpressVPN)
+### [ExpressVPN](https://carolcoral.github.io/no-free_vpn/ExpressVPN)
 
-### [VyprVPN](https://carolcoral.github.io/free_vpn/VYPRVPN)
+### [VyprVPN](https://carolcoral.github.io/no-free_vpn/VYPRVPN)
 
-### [NordVPN](https://carolcoral.github.io/free_vpn/nordvpn)
+### [NordVPN](https://carolcoral.github.io/no-free_vpn/nordvpn)
 
 |服务|WINSCRIBE|BVPN|Bandwagon|shadowsocks|ExpressVPN|VYPRVPN|nordvpn|
 |:---|:--------|:---|:--------|:----------|:---------|:------|:------|
