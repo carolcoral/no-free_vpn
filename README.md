@@ -31,6 +31,8 @@
 
 ### [NordVPN](https://carolcoral.github.io/no-free_vpn/nordvpn)
 
+### [KuLi云](https://carolcoral.github.io/no-free_vpn/kuli)
+
 |服务|WINSCRIBE|BVPN|Bandwagon|shadowsocks|ExpressVPN|VYPRVPN|nordvpn|
 |:---|:--------|:---|:--------|:----------|:---------|:------|:------|
 |稳定性|低|中|极高|极高|一般|高|高|
