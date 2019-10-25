@@ -1,7 +1,7 @@
 ﻿<h1><p align="center">shadowsocks</p></h1>
 
 ## Easy to use
-1. 访问官网 >>>>>> [官网](https://portal.shadowsocks.club/?tdsourcetag=s_pcqq_aiomsg)
+1. 访问官网 >>>>>> [官网](https://https://portal.shadowsocks.center)
 2. 注册账号
 3. 登录网站后点击上方的`产品服务`中的`购买新产品`
 4. 在跳转的页面中可以选择自己需要的套餐类型进行购买
