@@ -7,7 +7,7 @@
 > 请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
 > 如果多人一起使用推荐使用 Bandwagon，单人使用推荐使用 shadowsocks
 
-## Home[WIKI](https://github.com/carolcoral/no-free_vpn/wiki)
+## [WIKI](https://github.com/carolcoral/no-free_vpn/wiki)
 
 ## 公告：
 
