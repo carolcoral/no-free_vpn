@@ -9,6 +9,8 @@
 
 ## 公告：
 
+> `2019年12月5日 10:39:06` —— 丰富的java工具包[CommonUtil](https://github.com/carolcoral/CommonUtil),欢迎大家start、fork、issues.
+
 > `2019年11月1日 15:14:08` —— 目前全部VPN节点可用
 
 > `2019年10月11日 12:12:48` —— 新货 KuLi云 更新，ss日本节点可用
