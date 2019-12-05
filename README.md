@@ -4,8 +4,10 @@
 
 ## 申明：
 
-> 请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度。
-> 如果多人一起使用推荐使用 Bandwagon，单人使用推荐使用 shadowsocks
+> 请科学上网，本人对后续所有除技术问题外秉承：不回答、不负责、不回应、不处理 态度.
+
+> 如果多人一起使用推荐使用 Bandwagon，单人使用推荐使用 shadowsocks.
+
 > 本repo同时还有其他vpn的相关介绍，详情可以查看 WIKI.
 
 ## [WIKI](https://github.com/carolcoral/no-free_vpn/wiki)
