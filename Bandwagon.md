@@ -3,7 +3,7 @@
 > “搬瓦工”是VPN的高级版本——VPS，VPS是什么请自行百度或谷歌
 
 ## Easy to use
-1. 访问官网 >>>>>> [官网](https://bandwagonhost.com/index.php)
+1. 访问官网 >>>>>> [官网](https://bandwagonhost.com/aff.php?aff=55847)
 2. 注册账号,除邮箱外所有信息均可以为任意内容 [注册账号](https://bandwagonhost.com/register.php)
 3. 登录后访问最新的可用订单页面 [订单页面](https://bandwagonhost.com/vps-hosting.php)
 4. 页面中的表格里面`Order`按钮可用的为当前可用的订单，即你可以购买的订单
