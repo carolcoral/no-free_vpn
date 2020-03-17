@@ -14,6 +14,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)(Last 10 for here)：
 
+> `2020年3月17日 10:01:52` —— 因为某些原因，SS的用户需要手动去官网转换节点后使用
+
 > `2019年12月24日 13:59:24` —— 搬瓦工1g2核1t流量已经上货，有需要的可以购买了[WIKI](https://carolcoral.github.io/no-free_vpn/Bandwagon)
 
 > `2019年12月5日 11:14:49` —— 新增[Vultr](https://carolcoral.github.io/no-free_vpn/vultr)服务
