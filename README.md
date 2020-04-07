@@ -12,7 +12,9 @@
 
 ## [WIKI](https://github.com/carolcoral/no-free_vpn/wiki)
 
-## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)(Last 10 for here)：
+## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
+
+> `2020年4月7日` —— 因为SS正在升级服务导致服务不够稳定，目前推荐使用[Kuli](https://carolcoral.github.io/no-free_vpn/kuli)云
 
 > `2020年3月17日 10:01:52` —— 因为某些原因，SS的用户需要手动去官网转换节点后使用
 
