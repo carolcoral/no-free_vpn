@@ -1,7 +1,7 @@
 <h1><p align="center">KuLi云</p></h1>
 
 ## Easy to use
-1. 访问官网 >>>>>> [官网](https://coyun.space/auth/register?code=RL1z)
+1. 访问官网 >>>>>> [官网](https://coyun.space/auth/register?code=C8QG)
 2. 在官网右上方点击“登录”
 3. 在跳转的页面上点击注册
 4. 在下载页面下载需要的客户端版本
