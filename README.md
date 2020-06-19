@@ -14,6 +14,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2020年6月19日 09:44:45` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)618活动，新购和续费用户使用口令‘trojan618’获得8折优惠
+
 > `2020年5月9日 10:54:49` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)调整访问地址，新增台湾节点
 
 > `2020年4月7日 23:25:39` —— 因为SS正在升级服务导致服务不够稳定，目前推荐使用[Kuli](https://carolcoral.github.io/no-free_vpn/kuli)云
