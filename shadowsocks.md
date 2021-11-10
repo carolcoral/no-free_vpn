@@ -37,7 +37,7 @@
 
 ## 公告
 
-**`[2021年11月10日](https://portal.shadowsocks.nz/aff.php?aff=31126) `**
+**[2021年11月10日](https://portal.shadowsocks.nz/aff.php?aff=31126) **
 
 [1] 双十一活动：时间为 2021 年 11 月 10 日 0:00 后至 2021 年 11 月 12 日 0:00 分。
 
