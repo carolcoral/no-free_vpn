@@ -16,6 +16,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2021年11月10日 22:13:50` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)为回馈新老客户，在双十一活动¹期间，访问活动页面续费或新购服务时，将享受 30% - 40% 折扣²的优惠价格。
+
 > `2021年10月22日 22:56:22` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)美国节点维护中，请暂时使用其他节点
 
 > `2021年7月28日 16:04:28` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)变更访问地址
