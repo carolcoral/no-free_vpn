@@ -37,6 +37,16 @@
 
 ## 公告
 
+**[2022年07月13日](https://portal.shadowsocks.nz/aff.php?aff=31126)**
+
+[1] 全新的澳大利亚 AU1 和 AU2 节点
+
+我们已更新澳大利亚 AU1 和 AU2 节点，连接中国电信 AS4809 CN2 和中国联通国际 AS10099 CU Premium，直连中国内地所有网络运营商，推荐所有 Lite 和 Pro 套餐客户使用。
+
+[2] 全新的香港 HK1 节点
+
+我们已更新香港 HK1 节点，连接中国移动国际 AS58453 CMI 和 Telstra Global AS4637，直连中国内地所有网络运营商，推荐所有 Lite 和 Pro 套餐客户使用。
+
 **[2021年11月10日](https://portal.shadowsocks.nz/aff.php?aff=31126)**
 
 [1] 双十一活动：时间为 2021 年 11 月 10 日 0:00 后至 2021 年 11 月 12 日 0:00 分。
