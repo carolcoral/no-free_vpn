@@ -1,7 +1,7 @@
 ﻿<h1><p align="center">shadowsocks</p></h1>
 
 ## Easy to use
-1. 访问官网 >>>>>> [官网](https://portal.shadowsocks.nz/aff.php?aff=31126) 
+1. 访问官网 >>>>>> [官网](https://portal.shadowsocks.au/aff.php?aff=31126) 
 2. 注册账号 
 3. 登录网站后点击上方的`产品服务`中的`购买新产品`
 4. 在跳转的页面中可以选择自己需要的套餐类型进行购买
@@ -37,7 +37,7 @@
 
 ## 公告
 
-**[2022年07月13日](https://portal.shadowsocks.nz/aff.php?aff=31126)**
+**[2022年07月13日](https://portal.shadowsocks.au/aff.php?aff=31126)**
 
 [1] 全新的澳大利亚 AU1 和 AU2 节点
 
@@ -47,7 +47,7 @@
 
 我们已更新香港 HK1 节点，连接中国移动国际 AS58453 CMI 和 Telstra Global AS4637，直连中国内地所有网络运营商，推荐所有 Lite 和 Pro 套餐客户使用。
 
-**[2021年11月10日](https://portal.shadowsocks.nz/aff.php?aff=31126)**
+**[2021年11月10日](https://portal.shadowsocks.au/aff.php?aff=31126)**
 
 [1] 双十一活动：时间为 2021 年 11 月 10 日 0:00 后至 2021 年 11 月 12 日 0:00 分。
 
