@@ -16,6 +16,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2022-10-24` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 更新最新访问地址
+
 > `2022-07-13` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 更新最新访问地址和相关可用节点
 
 > `2021-11-10` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)为回馈新老客户，在双十一活动¹期间，访问活动页面续费或新购服务时，将享受 30% - 40% 折扣²的优惠价格。
