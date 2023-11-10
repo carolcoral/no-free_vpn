@@ -16,6 +16,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2023-11-10` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)推出2023双十一回馈活动，请点击查看
+
 > `2023-03-15` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)有重大更新公告，请点击查看
 
 > `2023-02-28` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)我们正在修复 Lite 服务无法使用的问题，在此期间请您耐心等待，无需发送服务工单。
