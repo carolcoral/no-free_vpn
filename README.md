@@ -1,3 +1,10 @@
+##### 广告
+<a href="https://ai.ninesure.com/auth/register?inviteCode=3NXGZELMG" target="_blank">
+<img style="float: left;height: 10em; width:100%;" src="https://redirect.cnkj.site:8099/b/2024/65e562aa4a61e.webp?type=blog" alt="九术.webp" title="九术.webp">
+</a>
+
+
+
 # vpn
 
 部分免费的 VPN。亲测有效的科学上网，同时支持 windows、mac、linux、ios 和 andrioid 系统。并提供 chrome、firefox、opera 等浏览器的插件使用。
