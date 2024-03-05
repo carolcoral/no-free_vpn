@@ -1,8 +1,6 @@
 ##### 广告
-<a href="https://ai.ninesure.com/auth/register?inviteCode=3NXGZELMG" target="_blank">
-<img style="float: left;height: 10em; width:100%;" src="https://redirect.cnkj.site:8099/b/2024/65e562aa4a61e.webp?type=blog" alt="九术.webp" title="九术.webp">
-</a>
 
+[![九术AI](https://redirect.cnkj.site:8099/shudaosan/2024/65e674bfefd21.webp?type=blog)](https://yourls.ninesure.com/carol)
 
 
 # vpn
