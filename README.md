@@ -21,6 +21,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2024-03-06` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 因“重保”期间，可能导致无法正常访问，可以登录控制台后获取新的订阅地址重新订阅即可
+
 > `2023-11-14` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 如果提示验证码出错请访问 https://portal.shadowsocks.au 登陆
 
 > `2023-11-10` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks)推出2023双十一回馈活动，请点击查看
