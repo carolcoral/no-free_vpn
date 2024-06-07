@@ -21,6 +21,8 @@
 
 ## [公告](https://github.com/carolcoral/no-free_vpn/wiki/%E5%85%AC%E5%91%8A)：
 
+> `2024-06-07` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 这几天可能网络不好哈，原因大家都懂，过后几天试试
+
 > `2024-04-16` —— [Bandwagon](https://bandwagonhost.com/cart.php?a=confproduct&i=0) Bandwagon 新出活动 38刀一年
 
 > `2024-03-06` —— [SS](https://carolcoral.github.io/no-free_vpn/shadowsocks) 因“重保”期间，可能导致无法正常访问，可以登录控制台后获取新的订阅地址重新订阅即可
