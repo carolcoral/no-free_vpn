@@ -37,6 +37,9 @@
 
 ## 公告
 
+**2026年05月04日**
+客户端出现订阅异常或无法订阅情况，请使用[Clash Verge REV](https://github.com/carolcoral/no-free_vpn/releases/tag/ClashVergeREV)客户端进行订阅（该情况目前出现在windows环境，mac环境我仍然使用的SS客户端无异常）
+
 **2024年11月10日**
 Shadowsocks.com 致力于隐私保护和推行真实互联网已长达十一年时间。
 
